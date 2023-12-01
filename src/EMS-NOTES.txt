@@ -1,0 +1,23 @@
+               EMS NOTES
+      ------------------------------   
+
+1. create a new project - npx create-react-app ems-frontend
+2. cd ems-frontend
+3. code .
+4. clear unwanted files
+5. Run project - npm start
+6. intall third party packages
+       1.fontawsome
+       2.google fonts 
+       3.react bootstrap / md bootstrap
+       4.bootswatch   
+
+7. component creation
+    -Admin
+    -Add
+    -View
+    -Edit
+    -PageNotFound
+
+8. setup path for components
+    -react-router-dom- npm i react-router-dom
